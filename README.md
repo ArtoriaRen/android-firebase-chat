@@ -5,10 +5,14 @@
 FriendlyChat is an app that allows users to send and receive text and photos in realtime.
 
 ## Screenshots
-![Image of Sign-in](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/sign_in.png)
-![Image of Password](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/password.png)
-![Image load Messages](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/load_messages.png)
-![Image of Typing](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/typing.png)
+
+![Image of Sign-in](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/sign_in.png =250x)
+
+![Image of Password](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/password.png =250x)
+
+![Image load Messages](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/load_messages.png =250x)
+
+![Image of Typing](https://github.com/ArtoriaRen/android-firebase-chat/tree/master/images/typing.png =250x)
 
 ## Setup
 
